@@ -119,6 +119,70 @@ p {
     width: 50px;
 }
 
+
+
+
+
+
+
+#join-us-sec {
+    background-image: url(./images/pexels-julia-m-cameron-6994992.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+    color: black;
+
+
+
+}
+
+.join-us-overlay {
+    text-align: center;
+    padding: 150px 200px;
+    color: rgb(0, 0, 0);
+    overflow: hidden;
+    height: 100%;
+
+}
+
+h3 {
+
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 70px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+
+
+p {
+    font-size: medium;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+
+}
+
+.button-top-padding {
+    padding-top: 50px;
+}
+
+#join-us-btn {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 16px 28px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    font-weight: 700;
+}
+
+
+
+
+
+
 .subscription {
     background-color: aliceblue;
     padding: 80px;
