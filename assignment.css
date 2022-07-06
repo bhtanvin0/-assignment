@@ -4,7 +4,7 @@ body {
 }
 
 #header-sec {
-    background-image: url(/images/donation13.jpg);
+    background-image: url(./images/donation13.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
