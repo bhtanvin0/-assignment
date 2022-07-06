@@ -1,0 +1,39 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+section {
+    background-image: url(/images/donation13.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    align-content: center;
+    padding: 40px 40px;
+    background-color: #ffffffbe;
+
+}
+
+h1 {
+    font-size: 40px;
+    color: aliceblue;
+    text-align: center;
+}
+
+p {
+    font-size: medium;
+    color: aliceblue;
+    text-align: center;
+}
+
+.Donate-button {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 16px 16px;
+    border-radius: 5px;
+    background-color: brown;
+    font-weight: 700;
+    left: 50%;
+
+}
